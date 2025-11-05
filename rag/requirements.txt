@@ -1,0 +1,14 @@
+# PDF Processing
+PyPDF2==3.0.1
+
+# Azure SDKs
+azure-search-documents==11.4.0
+azure-identity==1.15.0
+
+# OpenAI (updated for compatibility)
+openai==1.54.4
+httpx==0.27.2
+
+# Utilities
+python-dotenv==1.0.0
+tiktoken==0.5.2

@@ -1,0 +1,14 @@
+# Web Scraping with Browser Automation
+playwright==1.40.0
+
+# Data Validation
+pydantic==2.5.3
+
+# Database
+pyodbc==5.0.1
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Utilities
+python-dateutil==2.8.2
