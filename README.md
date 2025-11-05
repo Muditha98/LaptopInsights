@@ -16,7 +16,7 @@
 
 **🚀 Frontend**: https://orange-stone-0988ef30f.3.azurestaticapps.net
 
-**📡 Backend API**: https://laptop-insights-api.proudstone-99ac53cb.eastus.azurecontainerapps.net/docs
+**📡 Backend API**: https://laptop-insights-api.proudstone-99ac53cb.eastus.azurecontainerapps.io/docs
 
 ---
 
