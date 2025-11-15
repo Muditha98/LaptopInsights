@@ -2,23 +2,12 @@
 
 **An enterprise-grade, full-stack AI shopping assistant combining real-time pricing intelligence, semantic search, and conversational AI powered by Azure AI Foundry.**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success)](https://orange-stone-0988ef30f.3.azurestaticapps.net)
-[![API Status](https://img.shields.io/badge/API-Online-brightgreen)](https://laptop-insights-api.proudstone-99ac53cb.eastus.azurecontainerapps.net)
 [![Azure](https://img.shields.io/badge/Azure-Deployed-0078D4)](https://portal.azure.com)
 [![Angular](https://img.shields.io/badge/Angular-19-DD0031)](https://angular.io)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104-009688)](https://fastapi.tiangolo.com)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB)](https://python.org)
 [![GPT-4o](https://img.shields.io/badge/GPT--4o-Powered-412991)](https://azure.com/openai)
 
----
-
-## 🌟 Live Application
-
-**🚀 Frontend**: https://orange-stone-0988ef30f.3.azurestaticapps.net
-
-**📡 Backend API**: https://laptop-insights-api.proudstone-99ac53cb.eastus.azurecontainerapps.io/docs
-
----
 
 ## 📋 Table of Contents
 
